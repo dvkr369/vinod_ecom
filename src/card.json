@@ -1,0 +1,59 @@
+[
+    {
+        "title":"Room Style",
+        "subHeader":"Room Decoration",
+        "imgUrl":"https://m.media-amazon.com/images/I/51BkX4GL6zL._AC_UL750_.jpg",
+        "imgAlt":"Paella dish",
+        "price":"25000.00"
+    },
+    {
+        "title":"Dining Set",
+        "subHeader":"6 Seater Dining Table",
+        "imgUrl":"https://m.media-amazon.com/images/I/81RPtomVisL._AC_UL480_FMwebp_QL65_.jpg",
+        "imgAlt":"Dinning Set",
+        "price":"15000.00"
+    },
+    {
+        "title":"Office Chair",
+        "subHeader":"Chrome Base HIGH Back Office",
+        "imgUrl":"https://m.media-amazon.com/images/I/81yJVI6Za5L._AC_UL320_.jpg",
+        "imgAlt":"High Back Office Chair",
+        "price":"5270.00"
+    },
+    {
+        "title":"Garden & OutDoor",
+        "subHeader":"Kraft Seeds Hanging Planter Euro",
+        "imgUrl":"https://m.media-amazon.com/images/I/61ldXX+VjUL._SX679_.jpg",
+        "imgAlt":"Hanging Planter",
+        "price":"100.00"
+    },
+    {
+        "title":"TableWare",
+        "subHeader":"Kuber Industries PVC 6 Seater Transparent Dining Table",
+        "imgUrl":"https://m.media-amazon.com/images/I/71mmXUjzTdL._SX522_.jpg",
+        "imgAlt":"PVC 6 Seater Transparent Dining Table",
+        "price":"19998.00"
+    },
+    {
+        "title":"Wall Clock",
+        "subHeader":"Click n ship Pendulum Plastic Wall Clock for Home",
+        "imgUrl":"https://m.media-amazon.com/images/I/61tjLo6osOS._SY879_.jpg",
+        "imgAlt":"endulum Plastic Wall Clock",
+        "price":"500.00"
+    },
+    {
+        "title":"Indoor Lighting",
+        "subHeader":"LIODOR 3-Light Pendant Gold Frosted Glass Hanging Ceiling Lamp for Bedroom",
+        "imgUrl":"https://m.media-amazon.com/images/I/41OL3L6TbYL._AC_UL480_FMwebp_QL65_.jpg",
+        "imgAlt":"Pendant Gold Frosted Glass",
+        "price":"1650.00"
+    },
+    {
+        "title":"Mixer Grinders",
+        "subHeader":"Prestige Iris 750 Watt Mixer Grinder with 3 Stainless Steel Jar + 1 Juicer Jar ",
+        "imgUrl":"https://m.media-amazon.com/images/I/81+M1QrVNIL._SX679_.jpg",
+        "imgAlt":"750 Watt Mixer Grinder",
+        "price":"3500.00"
+    }
+    
+]
